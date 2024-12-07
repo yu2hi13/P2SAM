@@ -40,7 +40,7 @@ This repository contains the implementation of **P2SAM**, a novel framework for 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/p2sam.git
+   git clone https://github.com/yu2hi13/p2sam.git
    cd p2sam
    ```
 
