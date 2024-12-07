@@ -53,6 +53,13 @@ This repository contains the implementation of **P2SAM**, a novel framework for 
 3. Download the `sam_vit_b` weights and place them in the current directory:
    - [Download sam_vit_b weights](https://dl.fbaipublicfiles.com/segment_anything/sam_vit_b_01ec64.pth)
 
+4. Pre-trained Weights:
+   - The pre-trained weights are available on Google Drive. Please download them and place them in the `checkpoint` directory.
+   - [Download Pre-trained Weights](https://drive.google.com/drive/folders/1u7C67QTbJW8GN7oh9qrWIQGEJW47a2dH?usp=drive_link)
+     - **best_lora_checkpoint.pth**: Fine-tuned LoRA SAM weights.
+     - **best_prior_checkpoint.pth**: Prior network weights.
+     - **best_weights.pt**: Integrable mask weights.
+
 ---
 
 ## Usage
